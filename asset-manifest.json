@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/K-Lap-TEC/static/css/main.f9e24b86.css",
+    "main.js": "/K-Lap-TEC/static/js/main.fb9fd749.js",
+    "index.html": "/K-Lap-TEC/index.html",
+    "main.f9e24b86.css.map": "/K-Lap-TEC/static/css/main.f9e24b86.css.map",
+    "main.fb9fd749.js.map": "/K-Lap-TEC/static/js/main.fb9fd749.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f9e24b86.css",
+    "static/js/main.fb9fd749.js"
+  ]
+}
